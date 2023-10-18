@@ -1,7 +1,17 @@
-# FIFA World Cup 2022 Predictor 🌍⚽
+# FIFA World Cup 2022 Predictor ⚽
 
 ## Overview
 This repository provides a tutorial for predicting FIFA World Cup 2022 results using machine learning. It offers a detailed walkthrough of the full data science pipeline, including data preprocessing, feature engineering, model selection, and real-world performance evaluation.
+
+## 📸 Example Results
+
+Here you can find an example demonstrating the efficacy of the model. Below is a side-by-side comparison of a predicted group stage outcome next to the actual ground truth.
+
+### Predicted Outcome
+![soccer_predict](https://github.com/zijie-cai/FIFA-WorldCup2022-Predictor/assets/74931355/c26dfbba-6760-412f-bc4d-9051b326e003)
+
+### Ground Truth
+[ground_truth](https://github.com/zijie-cai/FIFA-WorldCup2022-Predictor/assets/74931355/792edd9d-4bc3-455e-9ebe-24473e1d6d54)
 
 ## 📊 Dataset
 The project uses open-source datasets from Kaggle.com, which include historical international team match data, features, and labels.
