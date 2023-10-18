@@ -4,7 +4,7 @@
 This repository provides a tutorial for predicting FIFA World Cup 2022 results using machine learning. It offers a detailed walkthrough of the full data science pipeline, including data preprocessing, feature engineering, model selection, and real-world performance evaluation.
 
 ## 📊 Dataset
-The project uses datasets acquired from Kaggle.com, which include historical international team match data, features, and labels.
+The project uses open-source datasets from Kaggle.com, which include historical international team match data, features, and labels.
 
 ## 🛠 Installation and Setup
 - Create and activate a Python virtual environment (venv/conda):
