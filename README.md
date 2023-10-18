@@ -11,7 +11,7 @@ Here you can find an example demonstrating the efficacy of the model. Below is a
 ![soccer_predict](https://github.com/zijie-cai/FIFA-WorldCup2022-Predictor/assets/74931355/c26dfbba-6760-412f-bc4d-9051b326e003)
 
 ### Ground Truth
-[ground_truth](https://github.com/zijie-cai/FIFA-WorldCup2022-Predictor/assets/74931355/792edd9d-4bc3-455e-9ebe-24473e1d6d54)
+![ground_truth](https://github.com/zijie-cai/FIFA-WorldCup2022-Predictor/assets/74931355/792edd9d-4bc3-455e-9ebe-24473e1d6d54)
 
 ## 📊 Dataset
 The project uses open-source datasets from Kaggle.com, which include historical international team match data, features, and labels.
