@@ -28,7 +28,7 @@ The project uses open-source datasets from Kaggle.com, which include historical 
 **Note:** To run the code successfully, you **must** complete the installation and setup steps.
 
 ## 🏃‍♂️ How to Run
-To start the project, simply clone or download the repository and follow the step-by-step guide provided in the Jupyter Notebooks.
+To start the project, simply clone or download the repository and follow the step-by-step guide provided in 'FIFA-WorldCup2022-Predictor.ipynb'.
 
 ## 🌟 Features
 - Comprehensive Data Preprocessing
