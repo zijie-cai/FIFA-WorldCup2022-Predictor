@@ -1,4 +1,4 @@
-# FIFA World Cup 2022 Predictor ⚽
+# FIFA World Cup 2022 Predictor ⚽🏆
 
 ## Overview
 This repository provides a tutorial for predicting FIFA World Cup 2022 results using machine learning. It offers a detailed walkthrough of the full data science pipeline, including data preprocessing, feature engineering, model selection, and real-world performance evaluation.
@@ -41,22 +41,23 @@ The project uses open-source datasets from Kaggle.com, which include historical 
 To start the project, simply clone or download the repository and follow the step-by-step guide provided in `FIFA-WorldCup2022-Predictor.ipynb`.
 
 ## 🌟 Features
-- Comprehensive Data Preprocessing
+- Data Preprocessing
 - Feature Engineering
-- Model Selection using Random Forest
+- Machine Learning using Random Forest
 - Real-world Performance Evaluation
 
 ## 📚 Technologies Used
 - Python
 - Pandas
+- NumPy
 - scikit-learn
-- Jupyter Notebook
+- Seaborn
 
 ## 🚀 Future Updates
-Stay tuned for updates on model improvements, as well as the addition of more machine learning algorithms for comparative analysis.
+Stay tuned for updates when 2026 World Cup is here!
 
 ## 👏 Contributions
 Open to contributions! If you have suggestions or improvements, feel free to fork the repo and create a pull request.
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/FIFA-World-Cup-2022-Predictor/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/zijie-cai/FIFA-WorldCup2022-Predictor/blob/main/LICENSE) file for details.
