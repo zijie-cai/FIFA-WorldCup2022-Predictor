@@ -5,7 +5,7 @@ This repository provides a tutorial for predicting FIFA World Cup 2022 results u
 
 ## 📸 Example Results
 
-Here is a side-by-side comparison of a predicted group stage outcome next to the actual ground truth.
+Here is a side-by-side comparison of a predicted group stage outcome next to the actual ground truth:
 
 ### Predicted Outcome
 ![soccer_predict](https://github.com/zijie-cai/FIFA-WorldCup2022-Predictor/assets/74931355/c26dfbba-6760-412f-bc4d-9051b326e003)
