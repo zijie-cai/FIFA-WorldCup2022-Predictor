@@ -1,11 +1,12 @@
+### How to use Image Generation with API key and DALL-e-3 ###
 import base64
-from PIL import Image
 
-image_prompt = f"A real photo of a delicious {cooking_method} {ingredient} dish served as a {dish_type}."
+# Image Prompt
+image_prompt = "Add your prompt here (i.e. A photo of a labrador swimming)"
 
-print("\nGenerating Dish Image...")
+print("\nGenerating Image...")
 
-# Generate image using base64 instead of URL
+# Generate image response
 response_img = client.images.generate(
     model="dall-e-3",
     prompt=image_prompt,
@@ -14,17 +15,13 @@ response_img = client.images.generate(
     response_format="b64_json",
 )
  
-# Extract base64 image data
+# Write and save image data
 if response_img.data and response_img.data[0].b64_json:
     image_base64 = response_img.data[0].b64_json
     image_bytes = base64.b64decode(image_base64)
 
-    with open("generated_recipe_image.png", "wb") as f:
+    with open("generated_image.png", "wb") as f:
         f.write(image_bytes)
-    print("Image saved as 'generated_recipe_image.png'")
-
-    # Display the image
-    img = Image.open("generated_recipe_image.png")
-    img.show()
+    print("Image saved as 'generated_image.png'")
 else:
     print("Image generation failed or returned no data.")
